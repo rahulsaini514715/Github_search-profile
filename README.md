@@ -7,7 +7,7 @@
 ## 🔗 Live Demo
 
 👉 [View Live Project](https://github-profile-search-rahul.netlify.app/)  
-> *(Replace the link above with your actual deployed URL on Vercel or Netlify)*
+
 
 ---
 
